@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRUD-ASP.NEST-Core-8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd5ebed67690db9e011af31cfaa2bce14a185253")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6a940859100047954302e4d1aaf191b8dc8c200")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRUD-ASP.NEST-Core-8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRUD-ASP.NEST-Core-8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
