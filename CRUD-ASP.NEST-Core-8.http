@@ -1,0 +1,6 @@
+@CRUD_ASP.NEST_Core_8_HostAddress = http://localhost:5248
+
+GET {{CRUD_ASP.NEST_Core_8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
